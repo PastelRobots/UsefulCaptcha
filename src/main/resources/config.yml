@@ -1,0 +1,12 @@
+# Welcome to the config.yml!
+
+success: '&aCongratulations! You have completed the captcha!'
+captcha-menu-title: 'Complete the captcha in order to join the server!'
+kick:
+  timeout: 30
+  timeout-message: '&c&lCaptcha timeout, try again!'
+  wrong-answer: '&c&lYou failed the captcha, try again!'
+
+console:
+  enabled-msg: true
+
