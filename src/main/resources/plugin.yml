@@ -1,6 +1,6 @@
 name: UsefulCaptcha
 version: 1.0-SNAPSHOT
-main: me.pastelrobots.usefulcaptcha.Captcha
+main: me.pastelrobots.usefulcaptcha.UsefulCaptcha
 api-version: 1.17
 authors:
   - PastelRobots
